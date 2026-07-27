@@ -1,0 +1,6 @@
+{
+  "name": "r u monkey.?",
+  "description": "A fun interactive prank website with a dodging No button that asks 'r u monkey.?' and plays a hilarious laughing screen when Yes is clicked.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
